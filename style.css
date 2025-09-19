@@ -1,6 +1,25 @@
 body{
-    .story-script-regular {
-  font-family: "Story Script", sans-serif;
-  font-weight: 400;
-  font-style: normal;
+    background-color: black;
+    color: white;
+    margin: 0px;
 }
+
+header{
+  border-bottom: black;
+  color: rgb(42,122,228);
+}
+
+h1{
+  font-size: 30px;
+}
+
+p{
+  font-size: 20px;
+}
+
+section{
+  background-color: rgb(117,143,237)
+ padding-bottom: 80px;
+ padding-top: 80px;
+ display:flex;
+ justify-content:center;
